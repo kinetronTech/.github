@@ -1,6 +1,5 @@
-#Motive, araştırmacı, profesyonel
-##Kinetron
-#innovatif teknolojiler
+# Kinetron
+## innovatif teknolojiler
 
 2018 yılında kurulan Kinetron Teknoloji, hareket kontrol sistemleri ve interaktif uygulamalar konularındaki uzmanlığını iş süreçleri deneyimiyle birleştirerek kuruluşların ihtiyaçlarına özel çözümler geliştiren ve temsilciliğini yaptığı markalar ve kendi özel tasarımı elektronik kartlara kodladığı yazılımlar ile anahtar teslim çözümler sunan bir teknoloji firmasıdır.
 ​
